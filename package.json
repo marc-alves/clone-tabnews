@@ -1,0 +1,15 @@
+{
+  "name": "clone-tabnews",
+  "version": "1.0.0",
+  "description": "Um projeto que evolui de acordo com o andamento do curso.dev clonando o site https://www.tabnews.com.br",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "Marcio Alves",
+  "license": "MIT ",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0"
+  }
+}
