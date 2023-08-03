@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Segunda frase do projeto</h1>
+    return <h1>Apenas uma frase para a Inicial</h1>
 }
 
 export default Home; 
